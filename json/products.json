@@ -1,5 +1,5 @@
-{
-  "tape201": {
+[
+  {
     "name": "TAPE 201",
     "family": "delays",
     "color": "green",
@@ -21,7 +21,7 @@
     ],
     "demos": []
   },
-  "memory-brigade": {
+  {
     "name": "Memory Brigade",
     "family": "delays",
     "color": "yellow lighten-5",
@@ -43,7 +43,7 @@
     ],
     "demos": []
   },
-  "eternity": {
+  {
     "name": "Eternity",
     "family": "delays",
     "color": "lime accent-2",
@@ -65,4 +65,4 @@
     ],
     "demos": []
   }
-}
+]
