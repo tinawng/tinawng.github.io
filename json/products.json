@@ -1,8 +1,9 @@
-{
-  "tape201": {
+[
+  {
     "name": "TAPE 201",
     "family": "delays",
     "color": "green",
+    "image": "../assets/images/tape201-3d.png",
     "texts": [
       "Saturated Analog Echo",
       "It came from outer space, but now it’s available in your DAW. Organic, tape saturated delay and reverb at its finest."
@@ -21,10 +22,11 @@
     ],
     "demos": []
   },
-  "memory-brigade": {
+  {
     "name": "Memory Brigade",
     "family": "delays",
     "color": "yellow lighten-5",
+    "image": "../assets/images/membrig-3d.png",
     "texts": [
       "Filtered Analog BBD Echo",
       "The iconic lo-fi delay that helped the greatest guitarists and producers achieve their unique tone is now available in your recording setup."
@@ -43,10 +45,11 @@
     ],
     "demos": []
   },
-  "eternity": {
+  {
     "name": "Eternity",
     "family": "delays",
     "color": "lime accent-2",
+    "image": "../assets/images/eternity-3d.png",
     "texts": [
       "Endless Creative Echo",
       "An exciting, original delay effect with integrated effects, and an inspiring variety of sounds. Arturia Delay Eternity is an innovative tool for the modern producer."
@@ -65,4 +68,4 @@
     ],
     "demos": []
   }
-}
+]
