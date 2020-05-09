@@ -1,1 +1,36 @@
-things
+[
+  {
+    "name": "delays",
+    "desc": "all star echo",
+    "products": [
+      {
+        "name": "Delay ETERNITY",
+        "desc": "endlessly creative echo",
+        "samples": [
+          {
+            "img": "eternity0.png",
+            "text": "A totally original Arturia design, Delay Eternity takes a deceptively simple digital delay and transforms it into something breathtaking."
+          },
+          {
+            "img": "eternity1.jpg",
+            "name": "granular drums",
+            "desc": "Deconstruct and make a mess out of any source in real time! LFO modulations twist the delay, the fade mode keeps the pitch steady when changing delay time.",
+            "audio": "Granular_Drums"
+          },
+          {
+            "img": "eternity2.jpg",
+            "name": "repeater synth",
+            "desc": "Use the powerful modulation routing to make your instruments delay or repeat only at set times in the bar, perfectly sync'd to your DAW.",
+            "audio": "Repeater_Synth"
+          },
+          {
+            "img": "eternity3.jpg",
+            "name": "dynamic pitch guitar",
+            "desc": "You can get totally bizarre, forced-pitch melodic parts using the pitch-levelling “repitch” mode, being controlled by the deep modulation. Bizarre, and hugely fun.",
+            "audio": "Dynamic_Pitch_Guitar"
+          }
+        ]
+      }
+    ]
+  }
+]
