@@ -6,7 +6,7 @@
       {
         "name": "Delay ETERNITY",
         "desc": "endlessly creative echo",
-        "image": "./assets/images/solodisco/eternity.svg"
+        "image": "./assets/images/solodisco/eternity.svg",
         "slides": [
           {
             "type": "overview",
@@ -38,12 +38,12 @@
       },
       {
         "name": "Delay TAPE-201",
-        "desc": "saturated analog echo"
+        "desc": "saturated analog echo",
         "image": "./assets/images/solodisco/tape201.svg"
       },
       {
         "name": "Delay MEMORY-BRIGADE",
-        "desc": "filtered analog bbd echo"
+        "desc": "filtered analog bbd echo",
         "image": "./assets/images/solodisco/membrig.svg"
       }
     ]
